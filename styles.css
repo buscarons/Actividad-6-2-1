@@ -1,8 +1,8 @@
 body {
-
     background-color: rgb(124, 152, 149);
     font-family: sans-serif;
-
+    text-align: center;
+    justify-content: center;
 }
 
 .image{
