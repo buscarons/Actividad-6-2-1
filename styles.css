@@ -17,3 +17,10 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+.link-button:hover{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
