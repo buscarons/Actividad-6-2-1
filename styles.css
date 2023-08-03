@@ -1,11 +1,12 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(124, 152, 149);
+    font-family: sans-serif;
     text-align: center;
     justify-content: center;
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid blue;
     border-radius: 10px;
     height: 400px;
 }
@@ -14,7 +15,7 @@ body {
     text-decoration: none;
     color: black;
     border: 1px solid gray;
-    background-color: #f2f2f2;
+    background-color: #c41e1e;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
@@ -25,4 +26,5 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    transition: ease-out 0.6s;
 }
